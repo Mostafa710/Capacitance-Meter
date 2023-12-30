@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\CARNIVAL\Desktop\cap meter\labels.tmp" -fI -W+ie -C V1 -o "C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.hex" -d "C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.obj" -e "C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.eep" -m "C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.map" "C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm"

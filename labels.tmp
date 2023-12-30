@@ -1,0 +1,64 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>AT90S2313</DEVICE>
+ <WORKING_DIR>C:\Users\CARNIVAL\Desktop\cap meter</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\2313def.inc</FILE>
+  <FILE>C:\Users\CARNIVAL\Desktop\cap meter\avr.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <DispPtr><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>23</LINE></DispPtr>
+  <DispBuf><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>24</LINE></DispBuf>
+  <KeyScan><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>25</LINE></KeyScan>
+  <Comp1><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>27</LINE></Comp1>
+  <Comp2><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>28</LINE></Comp2>
+  <Comp3><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>29</LINE></Comp3>
+  <StrBuf><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>31</LINE></StrBuf>
+  <reset><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>54</LINE></reset>
+  <tc1_cap><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>464</LINE></tc1_cap>
+  <tc1_ovf><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>437</LINE></tc1_ovf>
+  <tc0_ovf><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>512</LINE></tc0_ovf>
+  <dly><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>196</LINE></dly>
+  <load_eep><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>382</LINE></load_eep>
+  <form3><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>351</LINE></form3>
+  <put_formed><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>317</LINE></put_formed>
+  <main><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>99</LINE></main>
+  <btn_pressed><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>126</LINE></btn_pressed>
+  <measure><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>206</LINE></measure>
+  <adjust_zero><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>241</LINE></adjust_zero>
+  <adjust_gain><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>258</LINE></adjust_gain>
+  <disp_val><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>281</LINE></disp_val>
+  <cal_low><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>146</LINE></cal_low>
+  <cal_high><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>136</LINE></cal_high>
+  <can_offset><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>179</LINE></can_offset>
+  <cal_comp><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>153</LINE></cal_comp>
+  <cal_err><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>189</LINE></cal_err>
+  <clr_disp><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>341</LINE></clr_disp>
+  <save_eep><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>400</LINE></save_eep>
+  <form4><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>349</LINE></form4>
+  <mea_over><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>231</LINE></mea_over>
+  <form2><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>353</LINE></form2>
+  <seg7><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>373</LINE></seg7>
+  <form1><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>358</LINE></form1>
+  <read_eep><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>422</LINE></read_eep>
+  <write_eep><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>410</LINE></write_eep>
+  <tc1c_ed><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>482</LINE></tc1c_ed>
+  <tc1c_st><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>471</LINE></tc1c_st>
+  <tc1c_e><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>498</LINE></tc1c_e>
+  <scan_key><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>556</LINE></scan_key>
+  <t0_exit><FILE>C:\Users\CARNIVAL\Desktop\cap meter\cap_meter.asm</FILE><LINE>549</LINE></t0_exit>
+ </LABELS>
+</ASSEMBLER_INFO>
